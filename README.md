@@ -38,6 +38,7 @@ Ajoutez votre ligne à la fin de cette liste, en respectant le format.
 - Lilia Sfaxi — enseignante
 
 <!-- ===== AJOUTEZ VOTRE NOM CI-DESSOUS ===== -->
+- Amira B. — étudiante
 
 <!-- ===== FIN DES CONTRIBUTEURS ===== -->
 ```
