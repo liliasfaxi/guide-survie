@@ -68,6 +68,20 @@ const FICHES = [
   // ===== AJOUTEZ VOS FICHES CI-DESSOUS =====
 
   {
+    titre: "Réviser à deux, pas à cinq",
+    categorie: "Études",
+    texte: "Au-delà de trois personnes, une session de révision devient une conversation.",
+    auteur: "Sarra"
+  },
+
+  {
+    titre: "Le café d'en face après 17h",
+    categorie: "Bons plans",
+    texte: "Moitié prix sur les boissons, et des tables assez grandes pour travailler.",
+    auteur: "Mehdi"
+  },
+
+  {
     titre: "Les prises électriques de l'amphi",
     categorie: "Vie pratique",
     texte: "Il y en a exactement six, toutes au fond à gauche. Arrivez tôt ou venez chargé.",
