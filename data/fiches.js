@@ -67,6 +67,20 @@ const FICHES = [
 
   // ===== AJOUTEZ VOS FICHES CI-DESSOUS =====
 
+  {
+    titre: "Les prises électriques de l'amphi",
+    categorie: "Vie pratique",
+    texte: "Il y en a exactement six, toutes au fond à gauche. Arrivez tôt ou venez chargé.",
+    auteur: "Amira"
+  },
+
+  {
+    titre: "Le raccourci par la cour",
+    categorie: "Transport",
+    texte: "Il fait gagner quatre minutes entre le bâtiment A et le bâtiment C. Fermé après 18h.",
+    auteur: "Youssef"
+  },
+
 
   // ===== FIN DE VOS FICHES =====
 
